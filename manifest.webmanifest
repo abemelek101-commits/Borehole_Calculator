@@ -1,0 +1,21 @@
+{
+  "name": "Borehole Azimuth & Inclination Calculator",
+  "short_name": "Borehole Calc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6f8",
+  "theme_color": "#123047",
+  "description": "Offline borehole azimuth, inclination and coordinate calculator.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
